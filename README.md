@@ -1,4 +1,4 @@
-Extract text from a PDF file
+## Extract text from a PDF file
 
 Need to install PyMuPDF
 
